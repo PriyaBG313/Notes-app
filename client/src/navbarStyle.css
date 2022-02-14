@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.link {
+    padding: 20px;
+    text-decoration: none;
+    color : #444;
+}
+
+.link:hover{
+    background-color: aliceblue;
+}
